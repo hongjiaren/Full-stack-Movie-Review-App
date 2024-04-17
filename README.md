@@ -1,4 +1,4 @@
-# Movie Review App - MERN Stack Project 2023
+# Movie Review App - MERN Stack Project 
 
 Welcome to the Movie Review App! This project is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node) and incorporates Cloudinary for media handling and Tailwind CSS for UI design. This app provides a platform for users to explore, review, and discuss their favorite movies, showcasing your skills with modern technologies.
 
